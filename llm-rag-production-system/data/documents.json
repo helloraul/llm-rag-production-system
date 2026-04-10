@@ -1,0 +1,22 @@
+[
+  {
+    "document_id": "doc_1",
+    "text": "Retrieval-augmented generation combines document retrieval with LLM inference to improve factual grounding and answer quality."
+  },
+  {
+    "document_id": "doc_2",
+    "text": "Caching reduces repeated retrieval and LLM work, lowering latency and cost for repeated queries in production systems."
+  },
+  {
+    "document_id": "doc_3",
+    "text": "Horizontal scaling of the API layer allows a RAG service to handle higher request throughput behind a load balancer."
+  },
+  {
+    "document_id": "doc_4",
+    "text": "Observability in a production AI system typically includes structured logging, latency metrics, tracing, and error-rate dashboards."
+  },
+  {
+    "document_id": "doc_5",
+    "text": "GPU-backed inference can improve throughput and latency for large language models, but it increases operational complexity and cost."
+  }
+]
